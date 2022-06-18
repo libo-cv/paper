@@ -1,4 +1,3 @@
-# AZYBOBO
 # A Novel Adaptive Feature Fusion strategy for Image Retrieval是基础代码
 # 包含数据集和特征在内的全部文件
 链接：https://pan.baidu.com/s/1o6PWahfxqUAqWJMgV5apcw 
